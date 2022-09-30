@@ -33,7 +33,7 @@ def funGetUrl():
                   '1664543303990, "ct": 1664541503990} '
 
     }
-    url1 = 'https://www.xiurentu.net/85595.html'
+    url1 = ''
     try:
         result = requests.get(url=url1, headers=headers1, timeout=7)
 
